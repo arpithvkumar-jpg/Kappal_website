@@ -1,6 +1,7 @@
 import React from "react";
 import hero from "../assets/hero.jpg"
 import Label1 from "./label1";
+import AutoScroll from "./autoscroll";
 
 function Hero (){
     return(
@@ -39,6 +40,8 @@ function Hero (){
   
 </div>
 <Label1/>
+<AutoScroll/>
+
 
 
    </>

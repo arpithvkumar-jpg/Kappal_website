@@ -44,7 +44,7 @@ function Navbar(){
 
 </nav>
      <Hero/>
-      </div>
+  </div>
     
     
 
